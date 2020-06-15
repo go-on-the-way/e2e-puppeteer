@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "ora": "^4.0.4",
+    "puppeteer": "^3.3.0",
+    "resemblejs": "^3.2.4",
+    "utf-8-validate": "^5.0.2"
+  }
+}
